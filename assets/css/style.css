@@ -746,16 +746,16 @@ section .container {
 }
 
 .services .icon-box:hover .icon i {
-  color: #f0d7ae;
+  color: #1e1c1c;
 }
 
 .services .icon-box:hover .icon::before {
-  background: #35e888;
+  background: #1e1c1c;
 }
 
 .services .icon-box:hover h4 a,
 .services .icon-box:hover p {
-  color: #fff;
+  color: #1e1c1c;
 }
 
 /*--------------------------------------------------------------
